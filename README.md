@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi there from Qurcaivel 👋</h1>
 
-<!--
-**Qurcaivel/Qurcaivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- An an ordinary ~schoolboy~ student from Eastern Europe.
 
-Here are some ideas to get you started:
+- Started with Pascal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Has various experience with Java.
+
+- Feels good with C/C++.
+
+- Knows Basic, Python, and, maybe Rust or something like that 👉👈.
+
+- Little bit a system programmer.
+
+- And almost a personal computer architecture enjoyer.
+
+- Crazy about practical applications of programming language theory.
+
+- Yes, he can write a Brainf**k interpreter.
+
+- If you are reading this profile info, that means you are as weird as me.
+```
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurcaivel&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qurcaivel&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurcaivel&theme=nord_dark)
