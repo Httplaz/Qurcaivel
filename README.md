@@ -5,6 +5,8 @@
 
 - Started with Pascal.
 
+- Did sports programming at school, but there is little sport in him.
+
 - Has various experience with Java.
 
 - Feels good with C/C++.
@@ -14,6 +16,8 @@
 - Little bit a system programmer.
 
 - And almost a personal computer architecture enjoyer.
+
+- And btw uses Arch Linux (you didn't expect this, yes?).
 
 - Crazy about practical applications of programming language theory.
 
