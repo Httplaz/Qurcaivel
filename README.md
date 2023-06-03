@@ -1,4 +1,4 @@
-<h1 align="center">Hi there from Qurcaivel 👋</h1>
+# Hi there from Qurcaivel 👋
 
 ```
 - An an ordinary ~schoolboy~ student from Eastern Europe.
